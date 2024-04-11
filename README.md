@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish
-- 👀 I’m interested in Web 
-- 🌱 I’m currently learning most topics on https://projects.100xdevs.com/ 
+- 👀 I’m interested in Web ,Cloud Computing, DevOps 
+- 🌱 I’m currently learning most topics on https://projects.100xdevs.com/ (Would recommend @hkirat is a great teacher) 
 - 💞️ I’m looking to collaborate on Backend Projects 
 - 📫 How to reach me @ashdotenv across platforms
 - ⚡ Fun fact: Nothing is really fun about me 
